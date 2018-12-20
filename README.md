@@ -2,4 +2,4 @@
 
 Repositório para atividades da disciplina de sistemas distribuidos do curso TSI no IF-Barbacena
 
-Para mais informações sobre o Alimentador acesse o [site](https://leuribeiru.github.io/)
+Para mais informações sobre o Alimentador acesse o [site](https://leuribeiru.github.io/alimentadorpage/)
